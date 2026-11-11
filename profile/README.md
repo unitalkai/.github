@@ -26,7 +26,7 @@ An AI Collaborator is not a disposable chatbot: it is a **durable company asset*
 
 ### Public Open-Source Ecosystem
 
-* 🖥️ **[unitalk-desktop](https://github.com/unitalkai/unitalk-desktop)**: The packaged desktop distribution of Hermes Agent, built for business teams. 1-click signed installers for Windows & macOS, unified LiteLLM AI Gateway with 10,000 free trial credits (€5), and Clerk Work SSO.
+* 🖥️ **[unitalk-desktop](https://github.com/unitalkai/unitalk-desktop)**: The packaged desktop distribution of Hermes Agent, built for business teams. 1-click signed installers for Windows & macOS, unified Unitalk AI Gateway with 10,000 free trial credits (€5), and Unitalk Identity SSO.
 * 📦 **[profiles-distribution](https://github.com/unitalkai/profiles-distribution)**: Catalog of turnkey business personas, methods, and configurations.
 * 🌐 **[unitalk.com](https://github.com/unitalkai/unitalk.com)**: The shared collaborative workspace bringing humans and AI Collaborators together.
 * 🔌 **[hermes-plugins](https://github.com/unitalkai/hermes-plugins)**: Open plugins and business connectors.
