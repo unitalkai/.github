@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://unitalk.ai">
-    <img src="https://raw.githubusercontent.com/unitalkai/unitalk-desktop/main/assets/logo.png" alt="Unitalk Logo" width="130" height="130">
+    <img src="profile/logo.png" alt="Unitalk Logo" width="130" height="130">
   </a>
 </p>
 
